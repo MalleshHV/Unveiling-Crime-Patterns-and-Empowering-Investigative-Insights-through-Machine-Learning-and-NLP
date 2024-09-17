@@ -29,3 +29,7 @@ To set up the project locally, follow these steps:
 2. **Install Required Libraries**
    ```bash
    pip install scikit-learn nltk spacy matplotlib seaborn
+
+## Contact
+Contact
+For any inquiries or feedback, please reach out to hvmallesh1218@gmail.com .
