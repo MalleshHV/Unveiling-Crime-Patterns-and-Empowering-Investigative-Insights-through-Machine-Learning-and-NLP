@@ -26,3 +26,6 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/MalleshHV/Unveiling-Crime-Patterns-and-Empowering-Investigative-Insights-through-Machine-Learning-and-NLP.git
    cd Unveiling-Crime-Patterns-and-Empowering-Investigative-Insights-through-Machine-Learning-and-NLP
+2. **Install Required Libraries**
+   ```bash
+   pip install scikit-learn nltk spacy matplotlib seaborn
